@@ -2,7 +2,18 @@
 Migração das notas mentais criadas no Evernote para o Notion
 
 Status
-Em processo de Migração
+Migrado
 
 Contexto
+Evernote passou a limitar para 5 a quantidade de cadernos criados no plano free e a cobrar caso precise criar novos cadernos.
 
+Decisão:
+Pesquisando alternativas, decidi pelo Notion.
+
+Consequencias:
+Pontos Positivos: Faz migração automatizada dos cadernos criados no Evernote;
+Não tem limite de cadernos (notas) criadas;
+Tem IA nativa que ajuda na organização, formatação e criação de cadernos;
+
+Pontos Negativos: Curva de apredendizado um pouco maior;
+Por ter muitas funcionalidades, se torna um pouco desafiador no começo para formatar as notas nos mesmo moldes usados no Evernote.
