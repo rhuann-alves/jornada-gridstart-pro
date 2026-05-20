@@ -1,4 +1,4 @@
-# JornadaGridStartPro_Rhuann
+# Jornada GridStart Pro
 
 # 📝 Carta para o Meu Eu do Futuro
 ## Data de Hoje
