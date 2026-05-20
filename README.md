@@ -13,7 +13,7 @@ Sou responsável pela parte gestão de servidores, armazenamento e redundancia d
 Algumas ferramentas que utilizo diariamente: Linux (Baseado em Debian), Windows (Sharepoint/OneDrive), Proxmox, TrueNAS Scale e as vezes configuração de redes LAN, Switches e Roteadores.
 
 **Quanto você ganha?**
-Mais ou menos 3 salarios mínimos atuais (maio 2026), o que atualmente me impede de investir em outros projetos de carreira/vida.
+Mais ou menos 3 salarios mínimos atuais (maio 2026), o que atualmente me impede de investir mais pesado em outros projetos de carreira/vida.
 
 **O que te frustra hoje?**
 Me sinto estagnado no cargo atual. Gostaria de ter domínio técnico nas soluções que o mercado de trabalho mais requisita nas áreas de DevOps e Cloud Computing.
