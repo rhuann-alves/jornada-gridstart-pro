@@ -1,6 +1,6 @@
 # Jornada GridStart Pro
 
-# 📝 Carta para o Meu Eu do Futuro
+# 📝 Carta para meu eu do Futuro
 ## Data de Hoje
 20 de Maio de 2026
 
